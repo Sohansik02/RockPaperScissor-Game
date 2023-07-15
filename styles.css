@@ -1,0 +1,32 @@
+body{
+    background-color: #435B66;
+    text-align: center;
+}
+.title{
+    font-family: 'Freckle Face', cursive;
+    padding:0 7%;
+    color:#EF6262;
+}
+h1{
+    font-size: 5.4rem;
+}
+h3{
+    color:#9681EB;
+}
+p{
+    font-size: 2rem;
+}
+.img{
+    padding:2%;
+    width:50%;
+}
+.hit{
+    margin:1%;
+    font-family: 'Recursive',serif;
+    font-size: 1.5rem;
+}
+.footer{
+    font-size: 1rem;
+    margin-top: 1%;
+    color: #fff;
+}
